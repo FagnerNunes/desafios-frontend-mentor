@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" />
 </div>
 
-#### Link of project:
+#### Link of project: 
 
 #### Link of challenge:
 
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
 </div>
 
-#### Link of project:
+#### Link of project: <a href="https://fagnernunes.github.io/Search-user-github/"> User Github</a>
 
 #### Link of challenge:
 
