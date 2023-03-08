@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
 </div>
 
-#### Link of project: <a href="https://fagnernunes.github.io/Search-user-github/"> User Github</a>
+#### Link of project:
 
 #### Link of challenge:
 
