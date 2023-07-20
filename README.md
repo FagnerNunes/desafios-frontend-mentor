@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" />
 </div>
 
-#### Link of project: 
+#### Link of project: [<a href="https://fagnernunes.github.io/desafios-frontend-mentor/shortly/" target="_blank">shortly</a>](https://fagnernunes.github.io/desafios-frontend-mentor/shortly/)
 
 #### Link of challenge:
 
