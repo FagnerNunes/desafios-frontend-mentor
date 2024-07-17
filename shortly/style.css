@@ -12,7 +12,10 @@ body {
 
 .desktop {
     display: none;
+    margin: 0 auto;
+    max-width: 1980px;
 }
+
 .mobile {
     padding: 2.5rem 1.2rem;
     padding-bottom: .5rem;
@@ -89,7 +92,7 @@ body {
     width: 80%;
     top: -30px;
     position: absolute;
-    left: 10%;
+    left: 30px;
     height: 1px;
     content: '';
     background-color: hsl(257, 7%, 63%, .2);
@@ -107,12 +110,13 @@ body {
 }
 
 .section1 {
-    max-width: 100vw;
     overflow: hidden;
     gap: 2rem;
     flex-direction: column;
     display: flex;
     align-items: center;
+    margin: 0 auto;
+    max-width: 1980px;
 }
 
 .section1 img {
@@ -165,6 +169,7 @@ body {
 
 .container-encurtador .encurtador-de-link {
     width: 80%;
+    max-width: 1980px;
     position: relative;
     padding: 1.5rem;
     margin: 0 auto;
@@ -299,6 +304,7 @@ body {
 
 .section2 .container-statics {
     width: 95%;
+    max-width: 1980px;
     text-align: center;
     padding-bottom: 3rem;
     margin: 0 auto;
@@ -375,7 +381,7 @@ body {
 
 /* Boost your link --- obs: NÃO ESTÁ SENDO ESTILIZADO */
 .boost {
-    width: 100vw;
+    width: 100%;
     height: 250px;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -470,7 +476,7 @@ footer .icons-redes-sociais {
         display: none;
     }
     .desktop {
-        max-width: 1300px;
+        width: 100%;
         padding-inline: 10rem;
         margin-top: 3rem;
         justify-content: space-between;
@@ -528,6 +534,7 @@ footer .icons-redes-sociais {
     }
 
     .section1 {
+        width: 100%;
         margin-top: 5rem;
         justify-content: space-around;
         gap: 3.5rem;
